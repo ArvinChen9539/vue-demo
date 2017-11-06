@@ -1,7 +1,7 @@
 {
   "name": "vue-demo",
   "version": "1.0.0",
-  "description": "vue基本开发环境搭建",
+  "description": "vue基础开发环境搭建",
   "main": "index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=dev node ./build/dev.server",
